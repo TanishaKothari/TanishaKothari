@@ -1,12 +1,24 @@
-<h1 align="center">Hi 👋, I'm Tanisha Kothari</h1>
-<h3 align="left">A passionate developer dedicated to creating immersive experiences. With a portfolio showcasing a variety of engaging games and applications, I am committed to refining skills and exploring innovative solutions to create engaging digital worlds. Eager to contribute to projects and collaborate within the development community.</h3>
-
-- 📫 How to reach me **sachittanisha@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/x.tanisha_creates.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="x.tanisha_creates.x" height="30" width="40" /></a>
+<h2>Hey there! 👋 I’m Tanisha</h2><p></p>
+<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
+<p>💡 &nbsp;I'm a passionate developer dedicated to creating immersive experiences. With a portfolio showcasing a variety of engaging games and applications, I am committed to refining skills and exploring innovative solutions to create engaging digital worlds. Eager to contribute to projects and collaborate within the community.<br>
+✍️ &nbsp;During my leisure time, you'll find me honing my problem-solving skills on LeetCode and playing chess.<br>
+✉️ &nbsp;You can shoot me an email at <a href="mailto:sachittanisha@gmail.com">sachittanisha@gmail.com</a>! I’ll try to respond as soon as I can.<br>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+</p><h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
+<p><img src="https://img.shields.io/badge/-C%23-05122A?style=flat&amp;logo=C%23" alt="C#">&nbsp;
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
+<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
+<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">&nbsp;
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
+<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS"><br>
+<img src="https://img.shields.io/badge/SQLite-05122A.svg?style=flat&amp;logo=SQLite&amp;logoColor=white" alt="SQLite">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-05122A.svg?style=flat&amp;logo=MySQL&amp;logoColor=white" alt="MySQL">&nbsp;
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
+</p><h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
+<p align="center">
+<a href="mailto:sachittanisha@gmail.com"><img src="https://img.shields.io/badge/-sachittanisha@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
+<a href="https://instagram.com/x.tanisha_creates.x"><img src="https://img.shields.io/badge/-@x.tanisha__creates.x-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<hr>
