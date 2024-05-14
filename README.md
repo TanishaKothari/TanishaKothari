@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanisha Kothari</h1>
-<h3 align="center">A passionate developer dedicated to creating immersive experiences. With a portfolio showcasing a variety of engaging games and applications, I am committed to refining skills and exploring innovative solutions to create engaging digital worlds. Eager to contribute to projects and collaborate within the development community.</h3>
+<h3 align="left">A passionate developer dedicated to creating immersive experiences. With a portfolio showcasing a variety of engaging games and applications, I am committed to refining skills and exploring innovative solutions to create engaging digital worlds. Eager to contribute to projects and collaborate within the development community.</h3>
 
 - 📫 How to reach me **sachittanisha@gmail.com**
 
