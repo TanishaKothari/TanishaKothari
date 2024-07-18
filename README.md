@@ -19,6 +19,7 @@
 </p><h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
 <a href="mailto:sachittanisha@gmail.com"><img src="https://img.shields.io/badge/-sachittanisha@gmail.com-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
+<a href="https://discordapp.com/users/1233699686439718944"><img src="https://img.shields.io/badge/StuckCoder50-D14836?style=flat&amp&logo=Discord&logoColor=white"></a>
 <a href="https://instagram.com/x.tanisha_creates.x"><img src="https://img.shields.io/badge/-@x.tanisha__creates.x-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
 </p>
 <hr>
