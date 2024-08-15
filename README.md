@@ -21,7 +21,7 @@ I am excited to apply my game development skills in a professional setting and c
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
+<p align="left">
 <a href="mailto:sachittanisha@gmail.com"><img src="https://img.shields.io/badge/-sachittanisha@gmail.com-999999?style=flat&amp;logo=Gmail&amp"></a>
 <a href="https://discordapp.com/users/1233699686439718944"><img src="https://img.shields.io/badge/StuckCoder50-999999?style=flat&amp&logo=Discord&amp"></a>
 <a href="https://instagram.com/x.tanisha_creates.x"><img src="https://img.shields.io/badge/-@x.tanisha__creates.x-999999?style=flat&amp;logo=Instagram&amp"></a>
