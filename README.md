@@ -5,7 +5,7 @@
 When I'm not coding or developing games, you can find me immersed in a game of chess. Chess has taught me strategic thinking and patience, which directly enhances my problem-solving abilities as a developer. This hobby not only provides relaxation but also contributes to my overall growth as a developer.
 
 I am excited to apply my game development skills in a professional setting and contribute to innovative projects. Let's connect and create something amazing together!
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width=280 height=165>
 </p>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p>
