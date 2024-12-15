@@ -15,15 +15,13 @@ I am excited to apply my game development skills in a professional setting and c
   <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&amp;logo=C%23" alt="C#">&nbsp;
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
-  <img src="https://shields.io/badge/JavaScript-05122A?logo=JavaScript&logoColor=F7DF1E&style=flat&amp" alt="JS">&nbsp;
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML"><br>
+  <img src="https://shields.io/badge/JavaScript-05122A?logo=JavaScript&logoColor=F7DF1E&style=flat&amp" alt="JS"><br>
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">&nbsp;
   <img src="https://img.shields.io/badge/SQLite-05122A.svg?style=flat&amp;logo=SQLite&amp;logoColor=003B57" alt="SQLite">&nbsp;
   <img src="https://img.shields.io/badge/MySQL-05122A.svg?style=flat&amp;logo=MySQL&amp;logoColor=white" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;" alt="Visual Studio Code">&nbsp;
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
