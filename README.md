@@ -9,6 +9,7 @@ I am excited to apply my game development skills in a professional setting and c
 </p>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p>
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&amp;logo=unrealengine&logoColor=0E1128" alt="Unreal Engine">&nbsp;
   <img src="https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&amp;logo=C%2B%2B&logoColor=00599C" alt="C++">&nbsp;
   <img src="https://img.shields.io/badge/-Raylib-05122A?style=flat&logo=raylib&logoColor=white" alt="Raylib">&nbsp;
   <img src="https://img.shields.io/badge/-Unity-05122A?logo=Unity" alt="Unity">&nbsp;
@@ -22,6 +23,7 @@ I am excited to apply my game development skills in a professional setting and c
   <img src="https://img.shields.io/badge/SQLite-05122A.svg?style=flat&amp;logo=SQLite&amp;logoColor=003B57" alt="SQLite">&nbsp;
   <img src="https://img.shields.io/badge/MySQL-05122A.svg?style=flat&amp;logo=MySQL&amp;logoColor=white" alt="MySQL">&nbsp;
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;" alt="Visual Studio Code">&nbsp;
 </p>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
