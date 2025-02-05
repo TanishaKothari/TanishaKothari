@@ -8,23 +8,22 @@ I am excited to apply my game development skills in a professional setting and c
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width=270 height=165>
 </p>
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Unreal%20Engine-f0f0f0?style=flat&amp;logo=unrealengine&logoColor=0E1128" alt="Unreal Engine">&nbsp;
-  <img src="https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&amp;logo=C%2B%2B&logoColor=00599C" alt="C++">&nbsp;
-  <img src="https://img.shields.io/badge/-Raylib-f0f0f0?style=flat&logo=raylib&logoColor=000000" alt="Raylib">&nbsp;
-  <img src="https://img.shields.io/badge/-Unity-05122A?logo=Unity&logoColor=FFFFFF" alt="Unity">&nbsp;
-  <img src="https://img.shields.io/badge/-C%23-f0f0f0?style=flat&amp;" alt="C#">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python&logoColor=3776AB" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/-Flask-f0f0f0?style=flat&amp;logo=flask&logoColor=000000" alt="Flask">&nbsp;
-  <img src="https://shields.io/badge/JavaScript-05122A?logo=JavaScript&logoColor=F7DF1E&style=flat&amp" alt="JS"><br>
-  <img src="https://img.shields.io/badge/-HTML-f0f0f0?style=flat&amp;logo=HTML5&logoColor=E34F26" alt="HTML">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&logoColor=1572B6" alt="CSS">&nbsp;
-  <img src="https://img.shields.io/badge/-Bootstrap-f0f0f0?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap">&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-05122A.svg?style=flat&amp;logo=SQLite&logoColor=003B57" alt="SQLite">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-f0f0f0.svg?style=flat&amp;logo=MySQL&logoColor=4479A1" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;" alt="Visual Studio Code">&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-f0f0f0?style=flat&amp;logo=github&logoColor=181717" alt="GitHub">&nbsp;
-</p>
+<div>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png" alt="Unreal Engine" title="Unreal Engine"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
+  <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png" alt="Unity" title="Unity"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+  <code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+</div>
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="left">
   <a href="mailto:kotharitanisha50@gmail.com"><img src="https://img.shields.io/badge/-kotharitanisha50@gmail.com-999999?style=flat&amp;logo=Gmail&amp"></a>
